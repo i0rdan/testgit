@@ -1,2 +1,2 @@
 console.log(7)
-let c = 8;//
+let c = 8;
